@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925357046573",
+    "project_id": "firstappfirebase-efd59",
+    "storage_bucket": "firstappfirebase-efd59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925357046573:android:71cffe2a4dca0cdcc531a4",
+        "android_client_info": {
+          "package_name": "com.luis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjB2rqmezXcBE2XfRR9P_XZ19yCIBPnzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
